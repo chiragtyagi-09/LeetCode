@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int guessNumber(int n) 
+    int guessNumber(int n)
+    
     {
         int low = 1;
         int high = n;
@@ -17,6 +18,7 @@ public:
                  high = mid-1;
             }
         }
+        
         return pick;
     }
 };
