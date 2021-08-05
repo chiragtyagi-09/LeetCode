@@ -10,4 +10,5 @@ public:
             return false;
         return (n%4==0)?isPowerOfFour(n/4):false;
     }
+    
 };
