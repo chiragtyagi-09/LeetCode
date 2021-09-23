@@ -19,8 +19,7 @@ sort(nums.begin(),nums.end());
         {
            sum = nums[k]+nums[start]+nums[end];
             if(sum==0)
-            {
-                
+            {             
                 ans.push_back({nums[k],nums[start],nums[end]});
                 start++;
                 end--;
