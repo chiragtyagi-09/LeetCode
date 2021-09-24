@@ -17,5 +17,6 @@ public:
                buyValue = prices[j];
         }
         return profit;
+        
     }
 };
