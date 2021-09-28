@@ -10,5 +10,6 @@ public:
         int l = nums[n-1]*nums[1]*nums[0];
         
         return max(m,l);
+        
     }
 };
