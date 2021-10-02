@@ -6,5 +6,6 @@ public:
         for(int i=1;i<nums.size();i++)
             x = x^nums[i];
         return x;
+        
     }
 };
