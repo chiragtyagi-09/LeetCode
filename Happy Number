@@ -18,7 +18,6 @@ public:
         if(n<10)
             return 0;
             
-        return isHappy(getSum(n));
-        
+        return isHappy(getSum(n));      
     }
 };
