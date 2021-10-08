@@ -17,9 +17,7 @@ public:
                prefix+=strs[0][i];
            else
                break;
-       }
-        
-        return prefix;
-        
+       }       
+        return prefix;       
     }
 };
