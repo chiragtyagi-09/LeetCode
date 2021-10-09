@@ -10,7 +10,6 @@ public:
             result = max(result, max_so_far);
         }
         
-        return result;
-        
+        return result;        
     }
 };
