@@ -16,6 +16,7 @@ public:
             if(prices[j] < buyValue) 
                buyValue = prices[j];
         }
-        return profit;      
+        return profit;
+        
     }
 };
