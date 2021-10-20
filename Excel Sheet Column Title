@@ -15,5 +15,6 @@ public:
         } while (columnNumber > 0);
         reverse(res.begin(), res.end());
         return res;	
+	
     }
 };
