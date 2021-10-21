@@ -17,8 +17,7 @@ public:
             }else if(guess(mid) == -1){
                  high = mid-1;
             }
-        }
-        
+        }      
         return pick;      
     }
 };
