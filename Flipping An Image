@@ -9,8 +9,7 @@ public:
             {
                 image[i][j] ^=1;
             }
-        }
-        
+        }       
         return image;      
     }
 };
