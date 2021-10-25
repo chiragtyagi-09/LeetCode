@@ -11,8 +11,7 @@ public:
                 count++;
             else 
                 count--;
-        }
-        
+        }       
         return majority;       
     }
 };
