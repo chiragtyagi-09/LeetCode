@@ -17,6 +17,7 @@ public:
         if(rev==temp)
             return true;
         else 
-            return false;          
+            return false;  
+            
     }
 };
