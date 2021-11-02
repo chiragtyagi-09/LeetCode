@@ -14,8 +14,7 @@ public:
             carry = sum/2;             
             --aBi;
             --bBi;
-  }  
-  
+  }    
       return res;
     }
 };
