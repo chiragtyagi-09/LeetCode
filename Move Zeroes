@@ -16,7 +16,6 @@ public:
        {
           nums[n--]=0;
        }
-       return ;
-       
+       return ;      
     }  
 };
