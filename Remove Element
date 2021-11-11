@@ -20,7 +20,6 @@ public:
                 nums[i]=INT_MAX;
         }
         sort(nums.begin(),nums.end());
-        return count; 
-        
+        return count;       
     }
 };
