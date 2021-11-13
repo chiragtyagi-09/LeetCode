@@ -15,7 +15,6 @@ t.push_back(j);
         if(t.size()==2)
             break;
     }
-  return t;
-  
+  return t;  
 }
 };
