@@ -12,7 +12,6 @@ public:
             else 
                 count--;
         }       
-        return majority; 
-        
+        return majority;       
     }
 };
