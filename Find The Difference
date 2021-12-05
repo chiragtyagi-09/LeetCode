@@ -10,7 +10,6 @@ public:
             if(s[index]!= t[index]) 
                 break; 
         }
-        return t[index];    
-        
+        return t[index];            
     }
 };
