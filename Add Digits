@@ -10,6 +10,7 @@ public:
             num%=10;
         }
         sum+=num;        
-        return sum>=10?addDigits(sum):sum;         
+        return sum>=10?addDigits(sum):sum;   
+        
     }   
 };
