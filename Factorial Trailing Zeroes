@@ -8,7 +8,6 @@ public:
 		  n /= 5 ;
 		  num += n ;
 	     }	     
-	    return num ;
-	    
+	    return num ;	    
     }
 };
