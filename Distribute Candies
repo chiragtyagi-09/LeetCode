@@ -16,7 +16,6 @@ public:
         if((n/2)>count)
            return count;
         else
-          return n/2; 
-          
+          return n/2;           
     }
 };
